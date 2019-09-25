@@ -1,5 +1,6 @@
 # DM1.SS19.LUH
-This is  the tutorials for the Data Mining 1 course @ LUH. 
-Prof. Dr. Eirini Ntoutsi. 
-TAs: Tai Le Quy, Vasileios Iosifidis, Maximilian Idahl, Shaheer Asghar, Wazed Ali. 
-Summer Semester 2019
+This is  the repository for the tutorials of the Data Mining 1 course @ Leibniz University Hannover for SoSe 19.
+http://www.kbs.uni-hannover.de/~ntoutsi/DM1SoSe19.html
+
+Lecturer: Prof. Dr. Eirini Ntoutsi. 
+Teaching Assistants: Tai Le Quy, Vasileios Iosifidis, Maximilian Idahl, Shaheer Asghar
