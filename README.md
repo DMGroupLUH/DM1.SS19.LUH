@@ -1,5 +1,5 @@
 # DM1.SS19.LUH
-This is  the repository for the tutorials of the Data Mining 1 course @ Leibniz University Hannover for SoSe 19.
+This is  the repository for the tutorials of the Data Mining 1 course @ Leibniz University Hannover for SoSe19.
 http://www.kbs.uni-hannover.de/~ntoutsi/DM1SoSe19.html
 
 Lecturer: Prof. Dr. Eirini Ntoutsi. 
